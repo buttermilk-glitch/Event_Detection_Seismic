@@ -1,0 +1,1049 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2">
+  <eventParameters publicID="smi:org.gfz-potsdam.de/geofon/EventParameters">
+    <event publicID="smi:local/ga2021sxfsbe">
+      <preferredOriginID>smi:local/origin/20210927005302.152341.102957</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210927005302.152341.102957</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210927005302.152341.102957">
+        <time>
+          <value>2021-09-25T14:29:15.112000Z</value>
+        </time>
+        <latitude>
+          <value>-37.56366</value>
+        </latitude>
+        <longitude>
+          <value>146.37373</value>
+        </longitude>
+        <depth>
+          <value>9722.3</value>
+          <uncertainty>3929.0</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>24</usedPhaseCount>
+          <associatedStationCount>16</associatedStationCount>
+          <standardError>0.6691</standardError>
+          <azimuthalGap>92.3</azimuthalGap>
+          <minimumDistance>0.7018</minimumDistance>
+          <maximumDistance>6.903</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.7294</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>6.0623</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>153.8999</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210927005302.152341.102957">
+        <mag>
+          <value>2.55</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210927005302.152341.102957</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021svxbph">
+      <preferredOriginID>smi:local/origin/20210926230246.34296.103057</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210926230246.34296.103057</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210926230246.34296.103057">
+        <time>
+          <value>2021-09-24T21:04:17.718000Z</value>
+        </time>
+        <latitude>
+          <value>-37.56665</value>
+        </latitude>
+        <longitude>
+          <value>146.37599</value>
+        </longitude>
+        <depth>
+          <value>10309.6</value>
+          <uncertainty>3500.1</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>28</usedPhaseCount>
+          <associatedStationCount>20</associatedStationCount>
+          <standardError>0.6648</standardError>
+          <azimuthalGap>82.3</azimuthalGap>
+          <minimumDistance>0.7035</minimumDistance>
+          <maximumDistance>9.8089</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.6612</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>4.1448</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>172.0514</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210926230246.34296.103057">
+        <mag>
+          <value>2.93</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210926230246.34296.103057</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021svoawn">
+      <preferredOriginID>smi:local/origin/20210926224333.212467.101111</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210926224333.212467.101111</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210926224333.212467.101111">
+        <time>
+          <value>2021-09-24T16:31:54.498000Z</value>
+        </time>
+        <latitude>
+          <value>-37.52866</value>
+        </latitude>
+        <longitude>
+          <value>146.33023</value>
+        </longitude>
+        <depth>
+          <value>8310.1</value>
+          <uncertainty>3381.2</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>29</usedPhaseCount>
+          <associatedStationCount>18</associatedStationCount>
+          <standardError>0.4221</standardError>
+          <azimuthalGap>80.8</azimuthalGap>
+          <minimumDistance>0.6687</minimumDistance>
+          <maximumDistance>6.8544</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.2325</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>5.4665</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>170.6774</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210926224333.212467.101111">
+        <mag>
+          <value>2.77</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210926224333.212467.101111</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021stnxqz">
+      <preferredOriginID>smi:local/origin/20210923232555.20054.98640</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210923232555.20054.98640</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210923232555.20054.98640">
+        <time>
+          <value>2021-09-23T14:19:13.647000Z</value>
+        </time>
+        <latitude>
+          <value>-37.42481</value>
+        </latitude>
+        <longitude>
+          <value>146.36551</value>
+        </longitude>
+        <depth>
+          <value>5010.3</value>
+          <uncertainty>4094.0</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>25</usedPhaseCount>
+          <associatedStationCount>17</associatedStationCount>
+          <standardError>0.567</standardError>
+          <azimuthalGap>158.7</azimuthalGap>
+          <minimumDistance>0.7111</minimumDistance>
+          <maximumDistance>9.705</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.4956</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>8.5584</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>169.9271</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210923232555.20054.98640">
+        <mag>
+          <value>2.52</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210923232555.20054.98640</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021ssukqe">
+      <preferredOriginID>smi:local/origin/20210923213144.376362.94557</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210923213144.376362.94557</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210923213144.376362.94557">
+        <time>
+          <value>2021-09-23T04:30:50.293000Z</value>
+        </time>
+        <latitude>
+          <value>-37.50069</value>
+        </latitude>
+        <longitude>
+          <value>146.33607</value>
+        </longitude>
+        <depth>
+          <value>9636.5</value>
+          <uncertainty>4012.8</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>27</usedPhaseCount>
+          <associatedStationCount>18</associatedStationCount>
+          <standardError>0.6874</standardError>
+          <azimuthalGap>93.0</azimuthalGap>
+          <minimumDistance>0.6758</minimumDistance>
+          <maximumDistance>13.1865</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.715</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>7.8732</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>164.2179</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210923213144.376362.94557">
+        <mag>
+          <value>2.77</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210923213144.376362.94557</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021ssrjgv">
+      <preferredOriginID>smi:local/origin/20210928090925.455605.226647</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210928090925.455605.226647</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210928090925.455605.226647">
+        <time>
+          <value>2021-09-23T02:58:44.822000Z</value>
+        </time>
+        <latitude>
+          <value>-37.47836</value>
+        </latitude>
+        <longitude>
+          <value>146.35518</value>
+        </longitude>
+        <depth>
+          <value>7749.5</value>
+          <uncertainty>3441.2</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>37</usedPhaseCount>
+          <associatedStationCount>27</associatedStationCount>
+          <standardError>0.6804</standardError>
+          <azimuthalGap>79.9</azimuthalGap>
+          <minimumDistance>0.6936</minimumDistance>
+          <maximumDistance>13.1819</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.0442</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>5.5377</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>160.4801</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210928090925.455605.226647">
+        <mag>
+          <value>3.05</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210928090925.455605.226647</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sspsmw">
+      <preferredOriginID>smi:local/origin/20210923030945.706706.93787</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210923030945.706706.93787</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210923030945.706706.93787">
+        <time>
+          <value>2021-09-23T02:09:14.623000Z</value>
+        </time>
+        <latitude>
+          <value>-37.61227</value>
+        </latitude>
+        <longitude>
+          <value>146.39713</value>
+        </longitude>
+        <depth>
+          <value>10562.0</value>
+          <uncertainty>3454.3</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>24</usedPhaseCount>
+          <associatedStationCount>13</associatedStationCount>
+          <standardError>0.7018</standardError>
+          <azimuthalGap>96.4</azimuthalGap>
+          <minimumDistance>0.7213</minimumDistance>
+          <maximumDistance>6.088</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.3322</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>5.8352</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>156.1687</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210923030945.706706.93787">
+        <mag>
+          <value>2.81</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210923030945.706706.93787</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sshpsq">
+      <preferredOriginID>smi:local/origin/20210923024550.121562.111025</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210923024550.121562.111025</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210923024550.121562.111025">
+        <time>
+          <value>2021-09-22T22:04:31.150000Z</value>
+        </time>
+        <latitude>
+          <value>-37.4712</value>
+        </latitude>
+        <longitude>
+          <value>146.3502</value>
+        </longitude>
+        <depth>
+          <value>5569.3</value>
+          <uncertainty>4087.4</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>21</usedPhaseCount>
+          <associatedStationCount>14</associatedStationCount>
+          <standardError>0.4946</standardError>
+          <azimuthalGap>181.1</azimuthalGap>
+          <minimumDistance>0.6907</minimumDistance>
+          <maximumDistance>6.8176</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.6778</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>10.2535</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>172.3153</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210923024550.121562.111025">
+        <mag>
+          <value>2.64</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210923024550.121562.111025</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021srmxuk">
+      <preferredOriginID>smi:local/origin/20210922235310.225984.141045</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210922235310.225984.141045</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210922235310.225984.141045">
+        <time>
+          <value>2021-09-22T11:40:16.092000Z</value>
+        </time>
+        <latitude>
+          <value>-37.59135</value>
+        </latitude>
+        <longitude>
+          <value>146.3842</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+          <uncertainty>0.0</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>20</usedPhaseCount>
+          <associatedStationCount>13</associatedStationCount>
+          <standardError>0.8538</standardError>
+          <azimuthalGap>95.1</azimuthalGap>
+          <minimumDistance>0.7102</minimumDistance>
+          <maximumDistance>6.0662</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.2299</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>5.4394</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>164.8079</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210922235310.225984.141045">
+        <mag>
+          <value>2.42</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210922235310.225984.141045</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021srfqes">
+      <preferredOriginID>smi:local/origin/20210928085300.479378.221735</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210928085300.479378.221735</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210928085300.479378.221735">
+        <time>
+          <value>2021-09-22T08:00:14.385000Z</value>
+        </time>
+        <latitude>
+          <value>-37.50808</value>
+        </latitude>
+        <longitude>
+          <value>146.37691</value>
+        </longitude>
+        <depth>
+          <value>6407.6</value>
+          <uncertainty>3765.3</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>31</usedPhaseCount>
+          <associatedStationCount>21</associatedStationCount>
+          <standardError>0.458</standardError>
+          <azimuthalGap>91.0</azimuthalGap>
+          <minimumDistance>0.7074</minimumDistance>
+          <maximumDistance>9.7689</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.4385</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>4.9107</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>178.1512</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210928085300.479378.221735">
+        <mag>
+          <value>2.8</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210928085300.479378.221735</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sreqlp">
+      <preferredOriginID>smi:local/origin/20210928090518.221135.225023</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210928090518.221135.225023</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210928090518.221135.225023">
+        <time>
+          <value>2021-09-22T07:30:21.652000Z</value>
+        </time>
+        <latitude>
+          <value>-37.58658</value>
+        </latitude>
+        <longitude>
+          <value>146.39156</value>
+        </longitude>
+        <depth>
+          <value>8264.6</value>
+          <uncertainty>3938.5</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>25</usedPhaseCount>
+          <associatedStationCount>16</associatedStationCount>
+          <standardError>0.4429</standardError>
+          <azimuthalGap>94.8</azimuthalGap>
+          <minimumDistance>0.716</minimumDistance>
+          <maximumDistance>6.0621</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.6105</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>4.8195</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>136.9026</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210928090518.221135.225023">
+        <mag>
+          <value>2.69</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210928090518.221135.225023</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sqwhjz">
+      <preferredOriginID>smi:local/origin/20210928090020.143083.223578</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210928090020.143083.223578</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210928090020.143083.223578">
+        <time>
+          <value>2021-09-22T03:18:26.186000Z</value>
+        </time>
+        <latitude>
+          <value>-37.59492</value>
+        </latitude>
+        <longitude>
+          <value>146.37462</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+          <uncertainty>0.0</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>32</usedPhaseCount>
+          <associatedStationCount>21</associatedStationCount>
+          <standardError>0.8525</standardError>
+          <azimuthalGap>95.4</azimuthalGap>
+          <minimumDistance>0.7027</minimumDistance>
+          <maximumDistance>11.1273</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>2.912</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>3.7594</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>159.2838</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210928090020.143083.223578">
+        <mag>
+          <value>2.94</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210928090020.143083.223578</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sqqfkg">
+      <preferredOriginID>smi:local/origin/20210922030821.988767.163472</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210922030821.988767.163472</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210922030821.988767.163472">
+        <time>
+          <value>2021-09-22T00:15:08.400000Z</value>
+        </time>
+        <latitude>
+          <value>-37.39487</value>
+        </latitude>
+        <longitude>
+          <value>146.3295</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+          <uncertainty>0.0</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>11</usedPhaseCount>
+          <associatedStationCount>7</associatedStationCount>
+          <standardError>0.8983</standardError>
+          <azimuthalGap>172.7</azimuthalGap>
+          <minimumDistance>0.6902</minimumDistance>
+          <maximumDistance>3.21</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.7666</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>22.8282</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>164.3989</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210922030821.988767.163472">
+        <mag>
+          <value>2.42</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210922030821.988767.163472</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sqpnly">
+      <preferredOriginID>smi:local/origin/20210922023251.166146.152722</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210922023251.166146.152722</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210922023251.166146.152722">
+        <time>
+          <value>2021-09-21T23:54:19.025000Z</value>
+        </time>
+        <latitude>
+          <value>-37.54305</value>
+        </latitude>
+        <longitude>
+          <value>146.36671</value>
+        </longitude>
+        <depth>
+          <value>10828.8</value>
+          <uncertainty>3759.1</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>29</usedPhaseCount>
+          <associatedStationCount>21</associatedStationCount>
+          <standardError>0.9219</standardError>
+          <azimuthalGap>92.8</azimuthalGap>
+          <minimumDistance>0.6968</minimumDistance>
+          <maximumDistance>13.2334</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.7454</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>4.4969</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>156.4865</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210922023251.166146.152722">
+        <mag>
+          <value>3.14</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210922023251.166146.152722</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sqphok">
+      <preferredOriginID>smi:local/origin/20210922030230.965218.160558</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210922030230.965218.160558</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210922030230.965218.160558">
+        <time>
+          <value>2021-09-21T23:47:28.418000Z</value>
+        </time>
+        <latitude>
+          <value>-37.58618</value>
+        </latitude>
+        <longitude>
+          <value>146.41237</value>
+        </longitude>
+        <depth>
+          <value>5510.8</value>
+          <uncertainty>5193.9</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>12</usedPhaseCount>
+          <associatedStationCount>9</associatedStationCount>
+          <standardError>0.807</standardError>
+          <azimuthalGap>132.5</azimuthalGap>
+          <minimumDistance>0.7325</minimumDistance>
+          <maximumDistance>3.6111</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>4.5371</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>12.6456</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>169.0705</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210922030230.965218.160558">
+        <mag>
+          <value>2.55</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210922030230.965218.160558</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sqovqr">
+      <preferredOriginID>smi:local/origin/20210922021301.606056.150554</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210922021301.606056.150554</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210922021301.606056.150554">
+        <time>
+          <value>2021-09-21T23:33:38.777000Z</value>
+        </time>
+        <latitude>
+          <value>-37.47332</value>
+        </latitude>
+        <longitude>
+          <value>146.28754</value>
+        </longitude>
+        <depth>
+          <value>11118.7</value>
+          <uncertainty>3450.6</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>39</usedPhaseCount>
+          <associatedStationCount>32</associatedStationCount>
+          <standardError>0.8199</standardError>
+          <azimuthalGap>79.1</azimuthalGap>
+          <minimumDistance>0.6412</minimumDistance>
+          <maximumDistance>13.1398</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>3.1278</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>4.8587</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>168.5594</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210922021301.606056.150554">
+        <mag>
+          <value>4.07</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210922021301.606056.150554</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sqonyg">
+      <preferredOriginID>smi:local/origin/20210922031120.215383.165250</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210922031120.215383.165250</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210922031120.215383.165250">
+        <time>
+          <value>2021-09-21T23:24:42.297000Z</value>
+        </time>
+        <latitude>
+          <value>-37.43447</value>
+        </latitude>
+        <longitude>
+          <value>146.3743</value>
+        </longitude>
+        <depth>
+          <value>6042.5</value>
+          <uncertainty>4218.2</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>18</usedPhaseCount>
+          <associatedStationCount>12</associatedStationCount>
+          <standardError>0.8288</standardError>
+          <azimuthalGap>126.8</azimuthalGap>
+          <minimumDistance>0.716</minimumDistance>
+          <maximumDistance>5.0403</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>4.1918</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>7.4028</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>160.8036</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210922031120.215383.165250">
+        <mag>
+          <value>3.51</value>
+        </mag>
+        <type>MLa</type>
+        <originID>smi:local/origin/20210922031120.215383.165250</originID>
+      </magnitude>
+    </event>
+    <event publicID="smi:local/ga2021sqogij">
+      <preferredOriginID>smi:local/origin/20210922010535.292933.133426</preferredOriginID>
+      <preferredMagnitudeID>smi:local/magnitude/20210922010535.292933.133426</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description>
+        <text>Woods Point, VIC</text>
+        <type>region name</type>
+      </description>
+      <creationInfo>
+        <agencyID>Geoscience Australia</agencyID>
+        <author>GA (via ANU)</author>
+        <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+      </creationInfo>
+      <origin publicID="smi:local/origin/20210922010535.292933.133426">
+        <time>
+          <value>2021-09-21T23:15:53.776000Z</value>
+        </time>
+        <latitude>
+          <value>-37.49168</value>
+        </latitude>
+        <longitude>
+          <value>146.34787</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+          <uncertainty>0.0</uncertainty>
+        </depth>
+        <quality>
+          <usedPhaseCount>172</usedPhaseCount>
+          <associatedStationCount>159</associatedStationCount>
+          <standardError>1.1779</standardError>
+          <azimuthalGap>41.3</azimuthalGap>
+          <minimumDistance>0.6861</minimumDistance>
+          <maximumDistance>101.7797</maximumDistance>
+        </quality>
+        <type>hypocenter</type>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>reviewed</evaluationStatus>
+        <creationInfo>
+          <agencyID>Geoscience Australia</agencyID>
+          <author>GA (via ANU)</author>
+          <creationTime>2025-09-10T01:59:48.912479Z</creationTime>
+        </creationInfo>
+        <originUncertainty>
+          <preferredDescription>horizontal uncertainty</preferredDescription>
+          <minHorizontalUncertainty>1.8151</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>2.7318</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>173.1023</azimuthMaxHorizontalUncertainty>
+        </originUncertainty>
+      </origin>
+      <magnitude publicID="smi:local/magnitude/20210922010535.292933.133426">
+        <mag>
+          <value>5.87</value>
+        </mag>
+        <type>Mw</type>
+        <originID>smi:local/origin/20210922010535.292933.133426</originID>
+      </magnitude>
+    </event>
+  </eventParameters>
+</q:quakeml>

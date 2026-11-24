@@ -1,0 +1,6 @@
+review_rank,origin,magnitude,trigger_match_both_stations,candidate_snr,reason
+1,2021-09-21T23:33:38.777000Z,4.07,yes,292.1,prioritas pemeriksaan visual; bukan status confirmed
+2,2021-09-25T14:29:15.112000Z,2.55,yes,22.4,prioritas pemeriksaan visual; bukan status confirmed
+3,2021-09-23T14:19:13.647000Z,2.52,yes,20.0,prioritas pemeriksaan visual; bukan status confirmed
+4,2021-09-24T21:04:17.718000Z,2.93,yes,19.7,prioritas pemeriksaan visual; bukan status confirmed
+5,2021-09-22T08:00:14.385000Z,2.8,yes,17.7,prioritas pemeriksaan visual; bukan status confirmed
